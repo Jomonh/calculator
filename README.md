@@ -1,7 +1,7 @@
 # calculator
 ![Project image](https://github.com/Jomonh/calculator/blob/main/Preview.png)
 
-# Live <a href="https://Jomonh.github.io/calculator/">here</a>
+#### Live <a href="https://Jomonh.github.io/calculator/">here</a>
 ## Getting started
 
 To clone this repository, run this in your command prompt/Terminal 
